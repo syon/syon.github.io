@@ -20,7 +20,7 @@ author :
 
 # Generating a list of pages (not posts) in a given category
 # http://stackoverflow.com/questions/17118551
-category-list: []
+category-list: [pages]
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
