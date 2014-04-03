@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: default
 title: "Markdown sample"
-description: ""
-tags: []
+categories: pages
 ---
 {% include JB/setup %}
 
