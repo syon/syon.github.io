@@ -26,6 +26,13 @@ When you press the *copy markdown* button you'll get the markdown markup wrapped
         alert('hi!');
     }
 
+```ruby
+# comment
+def hello
+  puts "Hello."
+end
+```
+
 To learn more about markdown click [here][5]
 
 [1]: http://posterous.com/help/markdown
