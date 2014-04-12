@@ -22,3 +22,21 @@ categories: pages
 保存しないで終了
 
     :q!
+
+## 検索
+
+abcde を検索
+
+    /abcde
+
+abcde を検索（逆方向） ※Shiftキーを押すと逆
+
+    ?abcde
+
+次を検索
+
+    n
+
+前を検索 ※Shiftキーを押すと逆
+
+    N
