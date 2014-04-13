@@ -40,3 +40,13 @@ abcde を検索（逆方向） ※Shiftキーを押すと逆
 前を検索 ※Shiftキーを押すと逆
 
     N
+
+## Undo, Redo
+
+Undo
+
+    u
+
+Redo
+
+    Ctrl-R
