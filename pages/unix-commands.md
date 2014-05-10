@@ -18,3 +18,9 @@ categories: pages
 すぐに再起動
 
     # shutdown -r now
+
+## File, Directory
+
+空のディレクトリを削除する
+
+    find . -type d -empty -delete
