@@ -9,7 +9,10 @@ github_username:  syon
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+kramdown:
+  input: GFM
+permalink: /:year/:month/:day/
+timezone: Asia/Tokyo
 
 # Google Analytics
 google_analytics: UA-37634759-2
