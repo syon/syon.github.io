@@ -3,7 +3,6 @@ layout: default
 title: "UNIXコマンド"
 categories: pages
 ---
-{% include JB/setup %}
 
 ## Links
 

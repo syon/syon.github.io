@@ -3,7 +3,6 @@ layout: default
 title: "Vimコマンド"
 categories: pages
 ---
-{% include JB/setup %}
 
 ## Links
 
