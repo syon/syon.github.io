@@ -13,6 +13,8 @@ kramdown:
   input: GFM
 permalink: /:year/:month/:day/
 timezone: Asia/Tokyo
+gems:
+  - jekyll-sitemap
 
 # Google Analytics
 google_analytics: UA-37634759-2
