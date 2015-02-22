@@ -1,16 +1,19 @@
-# Site settings
-title: 田植え日記		
-email:
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-baseurl: ""
-url: "http://syon.github.io"
-twitter_username:
-github_username:  syon
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "vendor"]
 
-# Build settings
 markdown: kramdown
 kramdown:
   input: GFM
+
+# Site settings
+title: 田植え日記		
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email:
+baseurl: ""
+url: "http://syon.github.io"
+twitter_username: syonxv
+github_username:  syon
+
+# Build settings
 permalink: /:year/:month/:day/
 timezone: Asia/Tokyo
 gems:
